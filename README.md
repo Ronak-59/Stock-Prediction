@@ -33,7 +33,7 @@ Team Semicolon :
 * Ronak Doshi
 * Karthik Nair
 * Shikhar Shah
-* Nikesh Shah
+* Karan Shah* Nikesh Shah
 * Feya Shah
 * Aneri Shah
 * Himanshu Vaghela
