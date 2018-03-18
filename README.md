@@ -30,10 +30,11 @@ JP Morgan Stock Analysis
 
 Credits :
 Team Semicolon :
-* Ronak Doshi
-* Karthik Nair
-* Shikhar Shah
-* Karan Shah* Nikesh Shah
-* Feya Shah
-* Aneri Shah
-* Himanshu Vaghela
+* [Ronak Doshi](https://www.github.com/Ronak-59)
+* [Karthik Nair](https://www.github.com/KrUciFieR-Jr)
+* [Shikhar Shah](https://www.github.com/shikhar96)
+* [Karan Shah](https://www.github.com/karanfc)
+* [Nikesh Shah](https://www.github.com/Nikesh2712)
+* [Feya Shah](https://www.github.com/fshah21)
+* [Aneri Shah](https://www.github.com/Aneri2807)
+* [Himanshu Vaghela](https://www.github.com/himanshuvaghela)
