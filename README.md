@@ -19,7 +19,7 @@ We have used Dow Jones Top 30 Stocks as a primary dataset.
 * News Sentiment Analysis 
 
 ![Stock Trending](Screenshots/algo.png)
-![Algo Comparision](Screenshots/algo.png)
+![Algo Comparision](Screenshots/algo2.png)
 
 
 ![Exploratory Data Analaysis](Screenshots/1.png)
